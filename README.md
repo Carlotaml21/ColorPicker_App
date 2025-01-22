@@ -1,8 +1,30 @@
-# React + Vite
+# React Color Picker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and intuitive color picker application built with React. This project allows users to select a color using an input tool and displays the selected color's hexadecimal code in real-time.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📝 Project Description
+
+The **React Color Picker** is a lightweight web application designed to demonstrate the power of React in building interactive user interfaces. It includes:
+- A live preview of the selected color.
+- Hexadecimal code display for the selected color.
+- A simple, responsive design for easy use.
+
+---
+
+## 🛠️ Technologies Used
+
+This project was developed using:
+
+- **React**: JavaScript library for building user interfaces.
+- **HTML5**: For structuring the application.
+- **CSS3**: For styling and responsiveness.
+- **GitHub Pages**: For project deployment.
+
+---
+## 🎨 Demo
+
+You can check the live demo here:
+
+
