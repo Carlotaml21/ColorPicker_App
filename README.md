@@ -26,5 +26,6 @@ This project was developed using:
 ## 🎨 Demo
 
 You can check the live demo here:
+https://carlotaml21.github.io/ColorPicker_App.github.io/
 
 
